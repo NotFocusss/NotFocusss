@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NotFocusss
+- 👋 Hi, I’m @Dominykas Brazauskas
 - 👀 I’m interested in Games Development
 - 🌱 I’m currently learning C#, C++ & Python
-- 💞️ I’m looking to collaborate on Basketball.
+- 💞️ I’m looking to collaborate on Jiu Jitsu.
 - 📫 How to reach me Dₒₘ™#2355.
 
 <!---
